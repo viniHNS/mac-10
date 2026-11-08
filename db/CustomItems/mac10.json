@@ -1,0 +1,1021 @@
+{
+  "07ee12f74a3bca828859a9a0": {
+    "itemTplToClone": "66992b349950f5f4cd06029f",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "weapon_mac10_1143x23_container.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "7e8906dc77ef0608f085a421",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "07ee12f74a3bca828859a9a0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "7079461a80c0936c3ac6a72b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "7d5335a32070a8c6bf256212",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "07ee12f74a3bca828859a9a0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "9b9e091c7e62b91005e261a3",
+                  "f138ca3154b0997da24233a4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "213de9987d6c62806b408d9a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "07ee12f74a3bca828859a9a0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "ffcf99818e224a2dd3c59565"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 2.4,
+      "Width": 2,
+      "Height": 1,
+      "Ergonomics": 58,
+      "RecoilForceUp": 95,
+      "RecoilForceBack": 380,
+      "RecolDispersion": 28,
+      "RecoilCamera": 0.05,
+      "RecoilAngle": 85,
+      "CameraSnap": 4.5,
+      "ammoCaliber": "Caliber1143x23ACP",
+      "defAmmo": "5e81f423763d9f754677bf2e",
+      "bFirerate": 1090,
+      "weapFireType": [
+        "fullauto"
+      ],
+      "defMagType": "7079461a80c0936c3ac6a72b",
+      "Foldable": true,
+      "FoldedSlot": "mod_stock",
+      "CompactHandling": true,
+      "RarityPvE": "Rare"
+    },
+    "fleaPriceRoubles": 36000,
+    "handbookPriceRoubles": 18500,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "locales": {
+      "en": {
+        "name": "Ingram MAC-10 .45 ACP submachine gun",
+        "shortName": "MAC-10",
+        "description": "An American .45 ACP submachine gun with an open bolt system, designed by Gordon Ingram in the 1960s. Its simple stamped steel receiver, with the magazine housed in the pistol grip, makes it extremely compact, while its very high rate of fire makes it notoriously hard to control on full auto. Manufactured by Military Armament Corporation."
+      },
+      "po": {
+        "name": "Submetralhadora Ingram MAC-10 .45 ACP",
+        "shortName": "MAC-10",
+        "description": "Submetralhadora americana calibre .45 ACP com sistema de ferrolho aberto, projetada por Gordon Ingram na década de 1960. A caixa simples de aço estampado, com o carregador alojado no punho, torna a arma extremamente compacta, enquanto a cadência de tiro muito alta a torna notoriamente difícil de controlar no automático. Fabricado pela Military Armament Corporation."
+      },
+      "ru": {
+        "name": "Пистолет-пулемет Ingram MAC-10 .45 ACP",
+        "shortName": "MAC-10",
+        "description": "Американский пистолет-пулемет под патрон .45 ACP, построенный по системе с открытым затвором и разработанный Гордоном Ингрэмом в 1960-х годах. Простая штампованная стальная ствольная коробка и магазин в рукоятке делают его чрезвычайно компактным, а очень высокий темп стрельбы - печально известным своей сложностью в управлении при автоматическом огне. Производство Military Armament Corporation."
+      }
+    }
+  },
+  "9b9e091c7e62b91005e261a3": {
+    "itemTplToClone": "6698c8ab29e062525d0ad8ab",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "barrel_mac10_146mm_1143x23.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "8a0fab9c7d211766afe1eeb8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "9b9e091c7e62b91005e261a3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "29163a27e90140a21758bc20",
+                  "41337e018ca1d7958245d676",
+                  "f3070cdd696101a9c8d9334f",
+                  "10f6ebd38e12775aa369ef6c",
+                  "109c978807f6ad147a1f4d97",
+                  "deb92bc917ce0accf706c480",
+                  "33560a6e6e162847b8283a69",
+                  "06cd2c8d958802b61ba33d7d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.14,
+      "Width": 2,
+      "Height": 1,
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Velocity": -2.38,
+      "CenterOfImpact": 0.2,
+      "DeviationMax": 11,
+      "DeviationCurve": 2.25,
+      "HeatFactor": 1.052,
+      "CoolFactor": 1.085,
+      "DurabilityBurnModificator": 0.896,
+      "RaidModdable": false,
+      "ToolModdable": false,
+      "CanSellOnRagfair": false
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 .45 ACP 146mm threaded barrel",
+        "shortName": "MAC-10 146mm",
+        "description": "A threaded 146mm barrel for the MAC-10 submachine gun, designed for mounting a sound suppressor. Manufactured by Military Armament Corporation."
+      },
+      "po": {
+        "name": "Cano rosqueado de 146 mm .45 ACP para MAC-10",
+        "shortName": "MAC-10 146mm",
+        "description": "Cano rosqueado de 146 mm para a submetralhadora MAC-10, feito para receber um supressor de som. Fabricado pela Military Armament Corporation."
+      },
+      "ru": {
+        "name": "Ствол 146мм с резьбой для MAC-10 .45 ACP",
+        "shortName": "MAC-10 146мм",
+        "description": "Ствол длиной 146мм с резьбой для установки глушителя на пистолет-пулемет MAC-10. Производство Military Armament Corporation."
+      }
+    }
+  },
+  "7079461a80c0936c3ac6a72b": {
+    "itemTplToClone": "669927203c4fda6471005cbe",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mag_mac10_1143x23_30.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Cartridges": [
+        {
+          "_id": "a423eea017a37870202f9d2b",
+          "_max_count": 30,
+          "_name": "cartridges",
+          "_parent": "7079461a80c0936c3ac6a72b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e81f423763d9f754677bf2e",
+                  "5efb0cabfb3e451d70735af5",
+                  "5efb0fc6aeb21837e749c801",
+                  "5efb0d4f4bc50b58e81710f3",
+                  "5ea2a8e200685063ec28c05a"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Weight": 0.25,
+      "Ergonomics": 0,
+      "magAnimationIndex": 2
+    },
+    "fleaPriceRoubles": 13000,
+    "handbookPriceRoubles": 1425,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 .45 ACP 30-round magazine",
+        "shortName": "MAC-10 30",
+        "description": "A 30-round double-stack magazine for the MAC-10 submachine gun. Manufactured by Military Armament Corporation."
+      },
+      "po": {
+        "name": "Carregador de 30 cartuchos .45 ACP para MAC-10",
+        "shortName": "MAC-10 30",
+        "description": "Carregador de fila dupla com 30 cartuchos para a submetralhadora MAC-10. Fabricado pela Military Armament Corporation."
+      },
+      "ru": {
+        "name": "Магазин на 30 патронов .45 ACP для MAC-10",
+        "shortName": "MAC-10 30",
+        "description": "Стандартный двухрядный 30-зарядный магазин для пистолетов-пулеметов MAC-10. Производство Military Armament Corporation."
+      }
+    }
+  },
+  "ffcf99818e224a2dd3c59565": {
+    "itemTplToClone": "6699249f3c4fda6471005cba",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mac10/stock_uzi_iwi_type_5.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.3,
+      "Ergonomics": 3,
+      "Recoil": -22,
+      "UniqueAnimationModID": 0
+    },
+    "fleaPriceRoubles": 6400,
+    "handbookPriceRoubles": 1847,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 telescoping wire stock",
+        "shortName": "MAC-10 wire",
+        "description": "A two-position telescoping stock with a folding wire buttplate for the MAC-10 submachine gun. When collapsed, the wire butt rests on top of the receiver, keeping the weapon compact. Manufactured by Military Armament Corporation."
+      },
+      "po": {
+        "name": "Coronha telescópica de arame para MAC-10",
+        "shortName": "MAC-10 arame",
+        "description": "Coronha telescópica de duas posições com soleira dobrável de arame para a submetralhadora MAC-10. Recolhida, a soleira de arame fica deitada sobre a caixa, mantendo a arma compacta. Fabricado pela Military Armament Corporation."
+      },
+      "ru": {
+        "name": "Телескопический проволочный приклад для MAC-10",
+        "shortName": "MAC-10 прикл.",
+        "description": "Телескопический приклад на два положения со складным проволочным затыльником для пистолетов-пулеметов MAC-10. В сложенном положении затыльник лежит поверх ствольной коробки, сохраняя компактность оружия. Производство Military Armament Corporation."
+      }
+    }
+  },
+  "29163a27e90140a21758bc20": {
+    "itemTplToClone": "66993733f74fef4dfd0b04ff",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "silencer_mac10_sionics_1143x23.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.54,
+      "Ergonomics": -14,
+      "Recoil": -8,
+      "Loudness": -27,
+      "Velocity": 0.7
+    },
+    "fleaPriceRoubles": 30000,
+    "handbookPriceRoubles": 44000,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 .45 ACP two-stage sound suppressor",
+        "shortName": "MAC-10 supp.",
+        "description": "A two-stage sound suppressor for the MAC-10 submachine gun, designed by Mitchell WerBell III. Manufactured by Sionics."
+      },
+      "po": {
+        "name": "Supressor de som de dois estágios .45 ACP para MAC-10",
+        "shortName": "Sup. MAC-10",
+        "description": "Supressor de som de dois estágios para a submetralhadora MAC-10, projetado por Mitchell WerBell III. Fabricado pela Sionics."
+      },
+      "ru": {
+        "name": "Двухкамерный глушитель .45 ACP для MAC-10",
+        "shortName": "MAC-10 глуш.",
+        "description": "Двухкамерный глушитель для пистолетов-пулеметов MAC-10, разработанный Митчеллом Уэрбеллом III. Производство Sionics."
+      }
+    }
+  },
+  "f138ca3154b0997da24233a4": {
+    "itemTplToClone": "6698c8b7710a4525fe0e9e55",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "barrel_mac10_longo_1143x23.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [],
+      "Weight": 0.42,
+      "Width": 3,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "Ergonomics": -4,
+      "Recoil": -4,
+      "Velocity": 3.0,
+      "CenterOfImpact": 0.12,
+      "DeviationMax": 11,
+      "DeviationCurve": 2.25,
+      "HeatFactor": 1.052,
+      "CoolFactor": 1.085,
+      "DurabilityBurnModificator": 0.896,
+      "RaidModdable": false,
+      "ToolModdable": false
+    },
+    "fleaPriceRoubles": 14000,
+    "handbookPriceRoubles": 9500,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 .45 ACP 146mm barrel with extension",
+        "shortName": "MAC-10 ext.",
+        "description": "A 146mm MAC-10 barrel fitted with a ventilated barrel extension screwed onto the muzzle threads. The extra length raises muzzle velocity and improves accuracy, and the vented shroud gives the support hand something to hold, at the cost of handling. The extension covers the threads, so no muzzle device can be mounted."
+      },
+      "po": {
+        "name": "Cano de 146 mm .45 ACP com extensão para MAC-10",
+        "shortName": "MAC-10 ext.",
+        "description": "Cano de 146 mm da MAC-10 com uma extensão ventilada rosqueada na boca. O comprimento a mais aumenta a velocidade de boca e a precisão, e a capa vazada dá apoio à mão de baixo, ao custo do manejo. A extensão cobre a rosca, então não aceita dispositivos de boca."
+      },
+      "ru": {
+        "name": "Ствол 146мм с удлинителем для MAC-10 .45 ACP",
+        "shortName": "MAC-10 удл.",
+        "description": "Ствол 146 мм для MAC-10 с вентилируемым удлинителем, навинченным на дульную резьбу. Дополнительная длина повышает начальную скорость пули и точность, а перфорированный кожух служит упором для второй руки, но ухудшает эргономику. Удлинитель закрывает резьбу, поэтому дульные устройства не устанавливаются."
+      }
+    }
+  },
+  "41337e018ca1d7958245d676": {
+    "itemTplToClone": "57ee59b42459771c7b045da5",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mount_mac10_capa_single.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "d21c19207188ee376ef7f759",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "41337e018ca1d7958245d676",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.16,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -2,
+      "Recoil": -1
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 railed barrel shroud (Single)",
+        "shortName": "Shroud S",
+        "description": "A barrel shroud for the MAC-10 that screws onto the muzzle threads and carries a Picatinny rail on top for tactical devices and sights."
+      },
+      "po": {
+        "name": "Capa de cano com trilho para MAC-10 (simples)",
+        "shortName": "Shroud S",
+        "description": "Capa de cano para a MAC-10, rosqueada na boca, com trilho Picatinny em cima para dispositivos táticos e miras."
+      },
+      "ru": {
+        "name": "Кожух ствола с планкой для MAC-10 (одинарный)",
+        "shortName": "Кожух S",
+        "description": "Кожух ствола для MAC-10, накручивается на дульную резьбу и несёт планку Picatinny сверху для тактических устройств и прицелов."
+      }
+    }
+  },
+  "f3070cdd696101a9c8d9334f": {
+    "itemTplToClone": "57ee59b42459771c7b045da5",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mount_mac10_capa_tall_single.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "4cf1181a62e7badf2cf7e1fc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "f3070cdd696101a9c8d9334f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.18,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -2,
+      "Recoil": -1
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 railed barrel shroud (Tall)",
+        "shortName": "Shroud T",
+        "description": "A barrel shroud for the MAC-10 that screws onto the muzzle threads and carries a Picatinny rail on top for tactical devices and sights."
+      },
+      "po": {
+        "name": "Capa de cano com trilho para MAC-10 (alta)",
+        "shortName": "Shroud T",
+        "description": "Capa de cano para a MAC-10, rosqueada na boca, com trilho Picatinny em cima para dispositivos táticos e miras."
+      },
+      "ru": {
+        "name": "Кожух ствола с планкой для MAC-10 (высокий)",
+        "shortName": "Кожух T",
+        "description": "Кожух ствола для MAC-10, накручивается на дульную резьбу и несёт планку Picatinny сверху для тактических устройств и прицелов."
+      }
+    }
+  },
+  "10f6ebd38e12775aa369ef6c": {
+    "itemTplToClone": "57ee59b42459771c7b045da5",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mount_mac10_capa_tall_double.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "e340e81512667118b0cc005d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "10f6ebd38e12775aa369ef6c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "b648280a77e339c9a54d1bb6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "10f6ebd38e12775aa369ef6c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "661e53149c8b4dadef008579",
+                  "661e52e29c8b4dadef008577",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.24,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -3,
+      "Recoil": -2
+    },
+    "fleaPriceRoubles": 5700,
+    "handbookPriceRoubles": 3800,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 railed barrel shroud (Tall Double)",
+        "shortName": "Shroud TD",
+        "description": "A barrel shroud for the MAC-10 that screws onto the muzzle threads and carries a Picatinny rail on top and bottom for tactical devices, sights and foregrips."
+      },
+      "po": {
+        "name": "Capa de cano com trilho para MAC-10 (alta dupla)",
+        "shortName": "Shroud TD",
+        "description": "Capa de cano para a MAC-10, rosqueada na boca, com trilho Picatinny em cima e embaixo para dispositivos táticos, miras e empunhaduras."
+      },
+      "ru": {
+        "name": "Кожух ствола с планкой для MAC-10 (высокий двойной)",
+        "shortName": "Кожух TD",
+        "description": "Кожух ствола для MAC-10, накручивается на дульную резьбу и несёт планку Picatinny сверху и снизу для тактических устройств, прицелов и рукояток."
+      }
+    }
+  },
+  "109c978807f6ad147a1f4d97": {
+    "itemTplToClone": "57ee59b42459771c7b045da5",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mount_mac10_capa_large.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [
+        {
+          "_id": "ab9965a67ef496ec2c080f2f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "109c978807f6ad147a1f4d97",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "f3f5d93e86d403864c9c0abb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "109c978807f6ad147a1f4d97",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "661e53149c8b4dadef008579",
+                  "661e52e29c8b4dadef008577",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.32,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -4,
+      "Recoil": -3
+    },
+    "fleaPriceRoubles": 6800,
+    "handbookPriceRoubles": 4500,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 railed barrel shroud (Large)",
+        "shortName": "Shroud L",
+        "description": "A barrel shroud for the MAC-10 that screws onto the muzzle threads and carries a Picatinny rail on top and bottom for tactical devices, sights and foregrips."
+      },
+      "po": {
+        "name": "Capa de cano com trilho para MAC-10 (grande)",
+        "shortName": "Shroud L",
+        "description": "Capa de cano para a MAC-10, rosqueada na boca, com trilho Picatinny em cima e embaixo para dispositivos táticos, miras e empunhaduras."
+      },
+      "ru": {
+        "name": "Кожух ствола с планкой для MAC-10 (большой)",
+        "shortName": "Кожух L",
+        "description": "Кожух ствола для MAC-10, накручивается на дульную резьбу и несёт планку Picatinny сверху и снизу для тактических устройств, прицелов и рукояток."
+      }
+    }
+  },
+  "deb92bc917ce0accf706c480": {
+    "itemTplToClone": "5926e16e86f7742f5a0f7ecb",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "muzzle_mac10_extensao_3pol.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [],
+      "Weight": 0.06,
+      "Width": 1,
+      "Height": 1,
+      "ExtraSizeLeft": 0,
+      "Ergonomics": -1,
+      "Recoil": -1,
+      "Velocity": 0.5,
+      "DurabilityBurnModificator": 1.0
+    },
+    "fleaPriceRoubles": 3800,
+    "handbookPriceRoubles": 2500,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 3\" barrel extension",
+        "shortName": "Ext. 3\"",
+        "description": "A 76mm steel tube that screws onto the MAC-10 muzzle threads and extends the barrel. The extra length gives the gas a little more time to push the bullet and adds weight at the muzzle, at the cost of handling."
+      },
+      "po": {
+        "name": "Extensão de cano de 3\" para MAC-10",
+        "shortName": "Ext. 3\"",
+        "description": "Tubo de aço de 76 mm, rosqueado na boca da MAC-10, que prolonga o cano. O comprimento a mais dá um pouco mais de empurrão à bala e põe peso na boca, ao custo do manejo."
+      },
+      "ru": {
+        "name": "Удлинитель ствола 3\" для MAC-10",
+        "shortName": "Удл. 3\"",
+        "description": "Стальная трубка длиной 76 мм, навинчиваемая на дульную резьбу MAC-10 и удлиняющая ствол. Дополнительная длина немного повышает начальную скорость и добавляет веса на дульном срезе, но ухудшает эргономику."
+      }
+    }
+  },
+  "33560a6e6e162847b8283a69": {
+    "itemTplToClone": "5926e16e86f7742f5a0f7ecb",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "muzzle_mac10_extensao_6pol.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [],
+      "Weight": 0.11,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -2,
+      "Recoil": -2,
+      "Velocity": 1.0,
+      "DurabilityBurnModificator": 1.0
+    },
+    "fleaPriceRoubles": 4800,
+    "handbookPriceRoubles": 3200,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 6\" barrel extension",
+        "shortName": "Ext. 6\"",
+        "description": "A 152mm steel tube that screws onto the MAC-10 muzzle threads and extends the barrel. The extra length gives the gas a little more time to push the bullet and adds weight at the muzzle, at the cost of handling."
+      },
+      "po": {
+        "name": "Extensão de cano de 6\" para MAC-10",
+        "shortName": "Ext. 6\"",
+        "description": "Tubo de aço de 152 mm, rosqueado na boca da MAC-10, que prolonga o cano. O comprimento a mais dá um pouco mais de empurrão à bala e põe peso na boca, ao custo do manejo."
+      },
+      "ru": {
+        "name": "Удлинитель ствола 6\" для MAC-10",
+        "shortName": "Удл. 6\"",
+        "description": "Стальная трубка длиной 152 мм, навинчиваемая на дульную резьбу MAC-10 и удлиняющая ствол. Дополнительная длина немного повышает начальную скорость и добавляет веса на дульном срезе, но ухудшает эргономику."
+      }
+    }
+  },
+  "06cd2c8d958802b61ba33d7d": {
+    "itemTplToClone": "5926e16e86f7742f5a0f7ecb",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "muzzle_mac10_extensao_9pol.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [],
+      "Weight": 0.16,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -3,
+      "Recoil": -3,
+      "Velocity": 1.5,
+      "DurabilityBurnModificator": 1.0
+    },
+    "fleaPriceRoubles": 5700,
+    "handbookPriceRoubles": 3800,
+    "addtoTraders": false,
+    "addtoSecureFilters": false,
+    "locales": {
+      "en": {
+        "name": "MAC-10 9\" barrel extension",
+        "shortName": "Ext. 9\"",
+        "description": "A 228mm steel tube that screws onto the MAC-10 muzzle threads and extends the barrel. The extra length gives the gas a little more time to push the bullet and adds weight at the muzzle, at the cost of handling."
+      },
+      "po": {
+        "name": "Extensão de cano de 9\" para MAC-10",
+        "shortName": "Ext. 9\"",
+        "description": "Tubo de aço de 228 mm, rosqueado na boca da MAC-10, que prolonga o cano. O comprimento a mais dá um pouco mais de empurrão à bala e põe peso na boca, ao custo do manejo."
+      },
+      "ru": {
+        "name": "Удлинитель ствола 9\" для MAC-10",
+        "shortName": "Удл. 9\"",
+        "description": "Стальная трубка длиной 228 мм, навинчиваемая на дульную резьбу MAC-10 и удлиняющая ствол. Дополнительная длина немного повышает начальную скорость и добавляет веса на дульном срезе, но ухудшает эргономику."
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "b8438a9bec80bbae6f3c2af4": {
+    "_id": "b8438a9bec80bbae6f3c2af4",
+    "_type": "Preset",
+    "_changeWeaponName": false,
+    "_name": "MAC-10 default",
+    "_parent": "7c8a99fd6b9e5a87475069e9",
+    "_items": [
+      {
+        "_id": "7c8a99fd6b9e5a87475069e9",
+        "_tpl": "07ee12f74a3bca828859a9a0",
+        "upd": {
+          "Repairable": {
+            "Durability": 100,
+            "MaxDurability": 100
+          }
+        }
+      },
+      {
+        "_id": "f676acffa4a299bb879a68e7",
+        "_tpl": "7079461a80c0936c3ac6a72b",
+        "parentId": "7c8a99fd6b9e5a87475069e9",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "57ab4be81be8320b1a0f7641",
+        "_tpl": "9b9e091c7e62b91005e261a3",
+        "parentId": "7c8a99fd6b9e5a87475069e9",
+        "slotId": "mod_barrel"
+      },
+      {
+        "_id": "827141b4e1547feed9591dae",
+        "_tpl": "ffcf99818e224a2dd3c59565",
+        "parentId": "7c8a99fd6b9e5a87475069e9",
+        "slotId": "mod_stock"
+      }
+    ],
+    "_encyclopedia": "07ee12f74a3bca828859a9a0"
+  }
+}
